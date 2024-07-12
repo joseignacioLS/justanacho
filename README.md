@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justanacho
 - 👀 I’m interested in new technologies
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on videogame projects! 
+- 🌱 I’m currently working as Front End developer
+- 💞️ I’m looking to collaborate on social projects
 - 📫 How to reach me: ls.joseignacio@gmail.com
 
 <!---
